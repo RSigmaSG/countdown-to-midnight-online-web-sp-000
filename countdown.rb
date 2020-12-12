@@ -4,5 +4,5 @@ def countdown(times)
   while (time > 0)
     times-=1
   end
-  return "Happy New years
+  return "HAPPY NEW YEAR!"
 end
