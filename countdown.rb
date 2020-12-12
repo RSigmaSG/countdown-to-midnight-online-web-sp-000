@@ -2,6 +2,7 @@
 
 def countdown(times)
   while (time > 0)
-    times--
+    times-=1
   end
+  return "Happy New years
 end
